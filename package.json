@@ -45,7 +45,7 @@
     "eslint-plugin-prettier": "^3.0.1",
     "jest": "^23.6.0",
     "jest-cli": "^23.6.0",
-    "lint-staged": "^8.1.0",
+    "lint-staged": "^13.1.0",
     "nock": "^10.0.6",
     "prettier": "^1.15.3",
     "webpack": "^3.2",
